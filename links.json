@@ -1,16 +1,16 @@
 {
   "links": [
     {
-      "name": "Devtools YouTube Channel",
-      "description": "Devtools Tech is a YouTube channel which was started as a collaborative effort among like-minded engineers to provide high quality programming tutorials for free. We firmly believe in knowledge sharing and easy access to quality content for everyone.",
-      "tags": ["youtube", "frontend", "programming", "resource", "devtools"],
-      "link": "https://www.youtube.com/channel/UCtf9NkTbitF05Lap2tragZA"
-    },
-    {
       "name": "Code by Devtools Tech",
       "description": "A platform to practice curated real-world interview questions that help users to enhance knowledge, track performance, and better prepare for interviews. We offer a variety of questions and resources that will help you stand out and move closer to your dream job!",
       "tags": ["interviews", "frontend", "programming", "resource", "devtools"],
       "link": "https://code.devtools.tech"
+    },
+    {
+      "name": "Devtools YouTube Channel",
+      "description": "Devtools Tech is a YouTube channel which was started as a collaborative effort among like-minded engineers to provide high quality programming tutorials for free. We firmly believe in knowledge sharing and easy access to quality content for everyone.",
+      "tags": ["youtube", "frontend", "programming", "resource", "devtools"],
+      "link": "https://www.youtube.com/channel/UCtf9NkTbitF05Lap2tragZA"
     },
     {
       "name": "Backdrops",
