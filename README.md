@@ -12,7 +12,7 @@ P.S. Whereever you end up, do let the creator know that you came from Matrix ser
 
 ## How to contribute and what type of links are allowed?
 
-This is open-sourced. You can raise a PR by adding your `links.json`. There is a limit to type of links that can be added, a link could be from one or more of the following --
+This is open-sourced. You can raise a PR by adding new links to `links.json`. There is a limit to type of links that can be added, a link could be from one or more of the following --
 
 - Open source projects
 - Project showcase/demo
