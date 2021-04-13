@@ -1,0 +1,34 @@
+{
+  "links": [
+    {
+      "name": "Devtools YouTube Channel",
+      "description": "Devtools Tech is a YouTube channel which was started as a collaborative effort among like-minded engineers to provide high quality programming tutorials for free. We firmly believe in knowledge sharing and easy access to quality content for everyone.",
+      "tags": ["youtube", "frontend", "programming", "resource", "devtools"],
+      "link": "https://www.youtube.com/channel/UCtf9NkTbitF05Lap2tragZA"
+    },
+    {
+      "name": "Code by Devtools Tech",
+      "description": "A platform to practice curated real-world interview questions that help users to enhance knowledge, track performance, and better prepare for interviews. We offer a variety of questions and resources that will help you stand out and move closer to your dream job!",
+      "tags": ["interviews", "frontend", "programming", "resource", "devtools"],
+      "link": "https://code.devtools.tech"
+    },
+    {
+      "name": "Backdrops",
+      "description": "Tiny chrome extension to change your boring new tab screen to something delightful.",
+      "tags": ["chrome", "chrome extensions", "tools", "productivity"],
+      "link": "https://chrome.google.com/webstore/detail/backdrops/beanogjmmfajlfkfmlchaoamcoelddjf?hl=en"
+    },
+    {
+      "name": "AMP Templates",
+      "description": "A collection of responsive, blazing fast AMP templates from all over the web.",
+      "tags": ["web", "amp", "templates", "tools", "resource"],
+      "link": "https://amptemplates.io"
+    },
+    {
+      "name": "Epic React by Kent C. Dodds",
+      "description": "Confidently Ship Well-Architected Production Ready React Apps Like a Pro",
+      "tags": ["reactjs", "course", "paid", "frontend"],
+      "link": "https://epicreact.dev/"
+    }
+  ]
+}
