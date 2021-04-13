@@ -24,7 +24,7 @@ This is open-sourced. You can raise a PR by adding your `links.json`. There is a
 
 Things not allowed --
 
-- NFSW content
+- NSFW content
 - Anything that promotes hate, discrimination, and distasteful content
 - Personal social profiles
 - Malicious content
