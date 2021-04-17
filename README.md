@@ -1,5 +1,7 @@
 # Matrix
 
+<img src="./matrix-logo.png" height="120" align="right">
+
 Matrix is a service that redirects to a new interesting url from a list of unique urls whenever the service is visited.
 
 It is deployed at -- https://code.devtools.tech/matrix
