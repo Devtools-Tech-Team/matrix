@@ -32,3 +32,5 @@ Things not allowed --
 - Malicious content
 
 Both lists are Work In Progress and would evolve over time.
+
+P.S. More useful stuff -- https://bit.ly/devtools-yt
